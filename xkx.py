@@ -6,7 +6,7 @@ from colorama import Fore, Style
 import pyfiglet
 import os
 
-os.system("cls" if os.name == "nt" else "clear")  # Konsolu temizle
+os.system("cls" if os.name == "nt" else "clear")
 
 banner = pyfiglet.figlet_format("XKX OWO BOT TOOL v0.3", font="slant")
 
@@ -50,3 +50,4 @@ async def on_ready():
 
 
 client.run(TOKEN, bot=False)
+
