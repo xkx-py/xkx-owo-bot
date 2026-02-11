@@ -19,14 +19,18 @@ Bu sayede:
 ---
 
 ## 📥 OWO BOT NASIL İNDİRİLİR & KULLANILIR?
-
-### 1️⃣ Gerekli Kütüphaneleri Kurun
 1. `pkg update && pkg upgrade`
 2. `pkg install python`
 3. `pkg install github`
 4. `git clone https://github.com/xkx-py/xkx-owo-bot`
 5. `cd xkx-owo-bot`
 6. `pip install -r requirements.txt`
+7. `python3 xkx.py`
+
+---
+
+# İLETİŞİM İÇİN DİSCORD: @_xkxizm
+
 
 > ⚠️ **Uyarı:** Botu kullanırken Discord kurallarına dikkat edin. Token bilgilerinizi kimseyle paylaşmayın. RİSKLER TAMAMEN SİZE AİTTİR!
 
